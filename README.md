@@ -7,7 +7,6 @@ This repository contains a Python implementation of the Merge Sort algorithm. Me
 - [Overview](#overview)
 - [Usage](#usage)
 - [Function Descriptions](#function-descriptions)
-- [Example](#example)
 - [Performance](#performance)
 - [Contributing](#contributing)
 - [License](#license)
