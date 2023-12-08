@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/python3
 """The merge function"""
 
 def mergeSort(array):
