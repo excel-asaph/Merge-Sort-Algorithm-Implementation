@@ -48,7 +48,7 @@ def sortLeftArray(array):
         return divideLeft
     else:
         # Recursively sort the left half
-        value = mergeFunction(divideLeft)
+        value = mergeSort(divideLeft)
         return value
 
 
@@ -74,7 +74,7 @@ def sortRightArray(array):
         return divideRight
     else:
         # Recursively sort the right half
-        value = mergeFunction(divideRight)
+        value = mergeSort(divideRight)
         return value
 
 
