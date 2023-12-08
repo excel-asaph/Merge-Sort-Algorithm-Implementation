@@ -41,16 +41,13 @@ vi your-filename.py
 3. Then, use the following code:
 
 ```python
-from merge_sort import MergeSort
+from merge_sort import mergeSort
 
 # Example input array
 user_array = [your_array_of_values]
 
-# Create an instance of the MergeSort class
-merge_sort = MergeSort()
-
 # Sort the array using Merge Sort
-user_array = merge_sort(user_array)
+user_array = mergeSort(user_array)
 
 # Print the sorted array
 print("Sorted Array:", user_array)
